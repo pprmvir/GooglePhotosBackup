@@ -1,0 +1,5 @@
+client_secret_GooglePhotosBackup.json
+target/
+*.iml
+.*
+!/.gitignore
